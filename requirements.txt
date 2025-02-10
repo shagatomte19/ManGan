@@ -1,0 +1,6 @@
+gradio==3.0.0
+vercel
+torch
+numpy
+PILLOW
+gdown
