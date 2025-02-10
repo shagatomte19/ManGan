@@ -1,0 +1,17 @@
+{
+  "name": "mangan-project",
+  "version": "1.0.0",
+  "description": "A text-to-image generation project using GAN and Gradio",
+  "main": "app.py",
+  "scripts": {
+    "start": "python3 app.py",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "gradio": "^3.0",
+    "vercel": "^31.0.0"
+  },
+  "devDependencies": {},
+  "author": "Enamul Hasan Shagato",
+  "license": "MIT"
+}
